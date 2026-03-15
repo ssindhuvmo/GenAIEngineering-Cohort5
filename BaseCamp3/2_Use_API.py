@@ -9,7 +9,7 @@ querystring = {"query":"AI Research","limit":"10","time_published":"anytime","co
 
 # Add Headers to the request
 headers = {
-	"x-rapidapi-key": "aaf2f390b7msheaa8d215f651e4p14658jsnfd40ab2b478",					   
+	"x-rapidapi-key": "012ea5f51emsha209a0c6433707fp13f528jsndad181f9b450",					   
 	"x-rapidapi-host": "real-time-news-data.p.rapidapi.com"
 }
 
