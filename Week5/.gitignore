@@ -14,4 +14,4 @@ site-packages/
 *.pyc
 /vectordbs
 /Vector_DB
-.env
+*.env
