@@ -12,3 +12,4 @@ site-packages/
 *.dll
 *.exe
 *.pyc
+/vectordbs
