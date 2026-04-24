@@ -1,0 +1,158 @@
+{'source': 'www.aopa.org', 'topic': 'Safety Spotlight: Aircraft Systems', 'text': 'In this Section  \nEngine Basics  \nMaintaining  Your Engine  \nPropeller Safety  \nProp Mechanics  \nProps: What to Look For & Maintenance  \nPneumatic Systems  \nRules to Live By  \nAircraft engines are extremely reliable when properly cared for and can deliver years of safe flight'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Safety Spotlight: Aircraft Systems', 'text': 'That being said, not all pilots know as much as they should about the proper care and maintenance of engines'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Safety Spotlight: Aircraft Systems', 'text': 'Whether the aircraft you fly is equipped with a sophisticated engine monitoring system or not, a basic understanding of how engines work is required to correctly diagnose potential engine problems'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Safety Spotlight: Aircraft Systems', 'text': 'For all engines, air is drawn into the engine, mixes with fuel, burns at a controlled rate and expands, pushing on a piston that turns the crankshaft and propeller.  \nIn most piston aircraft, this occurs in four cycles: intake, compression, power, and exhaust'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Safety Spotlight: Aircraft Systems', 'text': 'Cockpit engine controls—usually the throttle, prop control and mixture—allow a pilot to extract the most efficient performance from the engine and ensure safe and reliable operation.  \nTip:  \nKnowing how to manage a powerplant helps you fly more safely and can minimize the cost of flying'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'A larger than normal mag drop is not as critical as a rough mag. A smooth drop up to 200 rpm is fine. A drop greater than 200 rpm could indicate a mag-timing problem that should be checked. A mis-timed magneto can rob some power from the engine and also cause engine damage'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Magnetos  \nAircraft engines have two spark plugs in each cylinder to improve combustion efficiency and to provide a backup in case one ignition system fails. Feeding the spark plus are two magnetos, each of which is self-contained and creates the spark, all without an external electrical source'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'If one magneto fails, the aircraft will still fly safely on the other magneto and its set of spark plugs.  \nIn your car, if the electrical charging system fails or the ignition is turned off, your engine stops running'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'In an airplane, the electrical system can be turned off with the master switch and the magneto-equipped engine will continue running.  \nThrottle'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Full authority digital engine control (FADEC) incorporates the throttle, mixture, and prop control into one pilot-controlled lever. The FADEC system provides many benefits, including increased efficiency, lower fuel burn, and troubleshooting tools for diagnosing engine problems'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The throttle is an air valve, opened all the way for full power and closed almost completely at idle. In a carbureted engine, as the throttle is opened further and further, more and more fuel is automatically drawn through the carburetor'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The fuel and air combine in the carburetor throat and are sucked into the cylinder via intake tubes. Carbureted engines are susceptible to developing carb ice'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'In a fuel-injected engine, the pilot still controls the volume of air entering the engine by moving the throttle, but the fuel is delivered separately into each cylinder, mixing with the air inside the cylinders'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Fuel-injected engines are more efficient and develop more power than the same-size carbureted engine because of more precise fuel delivery.  \nWith fuel-injected engines, there is no worry about carb ice, because there is no carburetor in which the fuel-air mixture can vaporize and cool'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The main operational difference with fuel-injected engines is that they can be harder to start, especially when hot'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Carb Ice  \nWhen we think about the dangers in icing, the first thing that comes to mind is usually airframe ice—but carburetor ice, its insidious and often forgotten cousin, can be just as deadly'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'As with most risks in flying, though, the keys to combating carb ice are simple: understanding the danger, recognizing the symptoms, and taking prompt action'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'At a basic level, carburetor ice is a product of three inter-related factors:  \nAir temperature  \nRelative humidity  \nCarburetor design  \nThe carburetor’s job is simple: It blends fuel and air together in the correct ratio before sending it to the engine in the proper quantity'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'To do this, it draws air through a narrow, curved passageway called a venturi. Much like air flowing over the curved upper surface of a wing, air moving through a venturi speeds up as its pressure decreases'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'When fuel is injected into this fast, low-pressure airstream, it vaporizes, and the resulting mixture of atomized fuel and air flows to the cylinders.  \nNo aircraft with a carbureted engine is immune to carb ice.  \nBut there’s a problem'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The vaporization of the fuel and the pressure change induced by the venturi together cause the air passing through the carburetor to cool rapidly—in some cases, by as much as 70 degrees Fahrenheit (F). If this lowers the air temperature past the freezing point, and if the incoming air is moist (i.e'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': ', humid) enough, ice can begin to form on the inner surfaces of the carburetor. As the ice accumulates, it restricts the flow of the fuel/air mixture to the engine, leading to a reduction in power as the engine is essentially “starved'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': '” If the situation isn’t remedied, the engine may lose power entirely.  \nThe “Danger Zone”  \nAlthough you may have heard that only a specific set of conditions lead to carb ice, the truth is that most of us fly inside the “danger zone” on a regular basis'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Carb ice can form over a wide range of outside air temperatures and relative humidity. While the word “icing” typically suggests blustery winds and frigid conditions, carb ice can form when outside temperatures are as high as 100 degrees F with 50 percent relative humidity'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'At the other end of the spectrum, the risk doesn’t go away until the humidity falls below roughly 25 percent and/or the outside air temperature drops well below freezing.  \nIn other words, carb ice can form at pretty much  \nany time, in any phase of flight'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'On a mid-June morning in western North Carolina, a flight instructor and the owner of a Cessna 182 ventured out for a training flight'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'A weather station 13 nautical miles to the southeast reported visual meteorological conditions (VMC) with a temperature of 80 degrees Fahrenheit and a dew point of 45 degrees Fahrenheit. The relative humidity was 28 percent'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Shortly after departure the engine lost power, and the pilot attempted to stretch a power-off glide to a nearby grass strip. The airplane impacted tree branches before it stalled, and subsequently impacted the runway environment'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The NTSB determined one of the probable causes of the accident to be carb icing that led to a loss of engine power.  \nFlight Conditions  \nOf course, just because carb ice form over a wide range of temperatures doesn’t mean that it always . Certain situations are considerably riskier than others'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Icing is most likely to occur—and to be severe—when temperatures fall roughly between 50- and 70-degrees F and the relative humidity is greater than 60 percent.  \ncan  \nwill  \nLikewise, certain flight conditions carry greater risks'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'As engine power is reduced, airflow is restricted, and ambient heat is lessened. This makes low-power operations like descents considerably more prone to carb ice'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Certain aircraft types are also more prone to ice than others because of differences in airflow and engine heat due to cowling design and other factors. Check your POH for guidance on carb heat, and remember that  \nno aircraft with a carbureted engine is immune to carb ice'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'A flight instructor and student were in a Cessna 172 working on routine traffic patterns at their home airport. The student was performing the before-landing checklist when he became distracted and forgot to turn on the carb heat for descent'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The instructor noted the error but allowed the student to proceed without carb heat. After landing, the instructor took the controls and initiated a climb-out, at which point the engine noise changed and the airplane stopped accelerating'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Only when the instructor applied full carb heat did the engine roar back to life.  \nDiminishing Returns  \nThe classic symptoms of carb ice are and a In aircraft with fixed pitch propellers, the first indication is typically a small decrease in engine rpm'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Although the engine may still be running smoothly at this point, as ice continues to accumulate the reduction in rpm will continue and the engine will begin to run rough. If the icing conditions are severe enough and the pilot takes no remedial action, the engine will eventually fail'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'reduced power  \nrough-running engine.  \nThe same applies to airplanes with constant-speed propellers, with one important exception: The manifold pressure gauge, rather than the tachometer, should be the focal point for early indications of carb ice'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Precise power settings, a consistent instrument scan, and attentive ears can all alert you to the subtle changes in engine performance. You may also want to consider installing a carburetor air temperature gauge to assist in recognizing conditions conducive to icing'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Tip  \n: If you listen to music in flight, make sure the volume is low enough to hear any changes in engine RPM.  \nThe Remedy  \nAlthough carb ice can form any time, under any number of different circumstances, the remedy is always the same:'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Consult your airplane’s POH or flight manual for specifics on using carb heat but remember this general rule:  \ncarb heat  \nIt’s far better to use full carb heat too soon, than to wait until it’s too late'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'When you apply carb heat, unfiltered air that’s been heated by the exhaust manifold routes into the carburetor, melting any ice that may have formed. As the ice melts, water intermixes with the fuel/air mixture, causing the engine to run rough'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Be patient: This increased engine roughness may last several seconds to a few minutes as the ice melts. Once the ice is clear and the engine is operating normally, be sure to turn off the carb heat to restore full power'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'At the first indication of carb ice:  \nFull carb heat ON (partial application could cause additional carb icing)  \nLeave carb heat ON until normal engine power returns  \nMonitor engine power and re-apply carb heat as necessary  \nRemember, when carb heat is applied, the warmer air will inherently cause a reduction in engine power'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Preventive Steps  \nDuring your preflight run-up, apply carb heat fully to ensure that it’s functioning properly'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'As warm air routes to the carburetor, you should see and hear a small reduction in rpm on aircraft with fixed-pitch propellers, and a slight reduction in manifold pressure for those with constant-speed props. If no ice is present, the rpm or manifold pressure will remain constant'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'If ice exists, however, there will be a gradual increase in engine power as the water from the melting ice is purged from the system'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'If much time elapses between the carb heat check and takeoff (especially in conditions conducive to carb icing), you may want to consider performing another check just prior to departure'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Carb heat should not be left on while taxiing, however, because the unfiltered air could allow foreign debris to be introduced to the engine.  \nBefore reduced or idle power operations, apply full carb heat (unless the aircraft’s POH states otherwise)'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'The warm air will aid in the prevention of carb ice—as will an occasional application of throttle to clear the engine. Again, it’s best to err on the side of caution when it comes to carb ice'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'In extreme cases of in-flight ice, it may be necessary to operate with continuous full carb heat to prevent further ice formation. In this case the mixture should be leaned to compensate for the warmer, less dense intake air, which can cause an excessively rich fuel/air mixture'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Basics', 'text': 'Wherever your flying takes you, always be aware of the “danger zone” of carb icing. Preflight prevention, alertness to early indications and a prompt, correct response to carb ice will keep you safely in the air—and out of the NTSB accident database'} 
+----
+{'source': 'www.aopa.org', 'topic': 'When Something Goes Wrong', 'text': 'From CAU’s Matthew Johnston  \nPilots need to prepare for worst case scenarios if the airplane they are flying experiences a mechanical failure'} 
+----
+{'source': 'www.aopa.org', 'topic': 'When Something Goes Wrong', 'text': 'Paying attention to checklists, carefully following them, and staying in contact with air traffic control is essential in finding the ground safely and quickly. The most important aspect to keep in mind once landing is to assess and report the damage. Doing so could save the life of the next pilot'} 
+----
+{'source': 'www.aopa.org', 'topic': 'When Something Goes Wrong', 'text': 'This, again, is why preflight inspections are so vital. Damage might not manifest itself visually, or it might not become apparent until after the airplane is started again. Sometimes pilots are forced to land in areas where a certified mechanic shop is not available'} 
+----
+{'source': 'www.aopa.org', 'topic': 'When Something Goes Wrong', 'text': 'In these situations, an A&P can travel to the airplane, or the airplane can be transported to an appropriate shop. Depending on insurance policies, such transport might be covered'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Can I fly if the carb heat drop is 300 rpm or more during runup?', 'text': 'A large carb heat drop during runup, more than the typical 50 to 100 rpm, is likely caused by an exhaust leak inside the shroud where hot air is diverted to the carburetor'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Can I fly if the carb heat drop is 300 rpm or more during runup?', 'text': 'All exhaust leaks are dangerous and must be fixed, because firewall air leaks can allow exhaust fumes and possibly carbon monoxide from the engine compartment into the cockpit'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Can I fly if the carb heat drop is 300 rpm or more during runup?', 'text': 'A leak can also direct hot exhaust onto vulnerable components such as fuel lines and possibly cause a fire in the engine compartment. While flying his Mooney on a return trip from Ontario, Minnesota-based pilot Dan Bass experienced carbon monoxide poisoning and lost consciousness while airborne'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Can I fly if the carb heat drop is 300 rpm or more during runup?', 'text': 'No.  \nHear Dan’s incredible story of survival.  \nGetting Started'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Carbureted Engines', 'text': 'Many piston engines will start with the mixture rich, throttle advanced slightly, and fuel pump "On". Still, starting an airplane engine isn’t automatic, as it is in a car.  \nTo start a cold engine, add extra fuel by priming'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Carbureted Engines', 'text': 'This puts fuel directly into one or more cylinders (via the intake manifold). Refer to the aircraft’s POH for the correct priming technique'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Carbureted Engines', 'text': 'Do not pump the throttle, as this will simply force raw fuel (which doesn’t vaporize as easily in cold weather) into the intake system, possibly causing an engine fire'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Carbureted Engines', 'text': 'If the outside temperature is below 20 degrees F, the engine may need a preheat, both to aid in starting and preventing engine damage. During a cold start try to avoid draining the battery unnecessarily'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Carbureted Engines', 'text': 'Leave avionics, electric flaps, and aircraft lighting—which all rely on and use battery power—off until the engine is running'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Fires', 'text': 'Excess priming causes large amounts of fuel to pool in the carburetor intake. This fuel can ignite if the engine backfires. Most POHs recommend that you keep cranking the engine after the fire is noticed. This puts the fire out by pulling the flames back into the engine'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Fires', 'text': 'If you get the engine started let it run for a few minutes before shutting down and examining the damage'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Engine Fires', 'text': 'If the engine does not start turn off the master and ignition switches as well as the fuel selector and mixture, abandon the aircraft, and look for a fire extinguisher or call the fire department'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Fuel-Injected Engines', 'text': 'Fuel-injected engines use electric primers or the electric fuel pump to spray fuel into the cylinders for priming. In some airplanes, the amount of primer fuel is adjusted by advancing the mixture and the throttle'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Fuel-Injected Engines', 'text': "It's easy to over-prime the engine, in which case the flooded-start procedure will be needed.  \nA typical flooded (or hot-start procedure) for a fuel-injected engine begins with the mixture at idle cutoff. Next, move the throttle to the open position (full power)"} 
+----
+{'source': 'www.aopa.org', 'topic': 'Fuel-Injected Engines', 'text': 'Check the POH to see if the fuel pump needs to be On or Off. While cranking the engine, get ready to reverse the throttle and mixture controls as the engine starts (quickly retard the throttle and slowly richen the mixture). It takes some practice to gracefully hot-start a fuel-injected engine'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Fuel-Injected Engines', 'text': 'Tip  \n: Different engine manufacturers have different procedures for hot starts. Be sure to reference the POH for the aircraft you fly'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Preheats', 'text': 'Different metals in the engine will shrink at varying rates and oil loses some ability to lubricate at extremely low temperatures. Starting an engine in these conditions can cause metal parts to rub together and cause extreme wear in a very short time. Preheating helps prevent this wear and helps fuel vaporize easier for quick starting.'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'Why is my engine so hard to start, especially when hot, and what can I do about it?  \nThere are many causes of hard starting, including a weak battery, fouled spark plugs, worn magnetos, worn impulse couplings, fuel vapor lock, and improper technique'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'Fuel-injected engines can be difficult to start when the engine is hot because fuel can turn into vapor in fuel lines near the hot engine. With air bubbles/vapor in the fuel lines the engine will not start or will not run after starting'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'One hot-start technique includes a method of purging the fuel lines to eliminate fuel vapor. Follow POH instructions for hot starting but be sure that the mechanical items mentioned above aren’t making the problem worse'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'If all else fails, ask your mechanic for his or her favorite hot start technique.  \nWhat do I do if the engine runs rough during runup?  \nEngine roughness while checking the magnetos during runup could indicate a fouled spark plug or other ignition system problem'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'Accelerate the engine to runup rpm and lean the mixture until the engine runs rough. Let the engine run for about 30 seconds. Enrich the mixture then check the mags again. If this doesn’t clear the roughness, have the ignition system checked by a mechanic before flying'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': 'Safety Tip: Hot Starts  \nDo you struggle with hot starting an airplane? You’re not alone. In this video, we help demystify hot start procedures, and give you a peek at what’s happening under the hood—in your airplane’s fuel delivery system'} 
+----
+{'source': 'www.aopa.org', 'topic': 'Generic', 'text': '  \nIn this Section  \nEngine Basics  \nMaintaining  Your Engine  \nPropeller Safety  \nProp Mechanics  \nProps: What to Look For & Maintenance  \nPneumatic Systems  \nRules to Live By  \nAdvertisement Widget /21794231495/widget Advertisement Advertisement  \n/21794231495/section/rectangle /21794231495/section/mobile_rectangle  \n/21794231495/section/rectangle /21794231495/section/mobile_rectangle  \n/21794231495/section/rectangle /21794231495/section/mobile_rectangle'} 
+----

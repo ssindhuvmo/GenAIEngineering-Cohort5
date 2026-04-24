@@ -1,0 +1,26 @@
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'BEGIN NOINDEX Advertisement END NOINDEX  \nresource removed  \ncards cards__one-two  \nNAMING: 3 articles Featured Left cards__column--left cards__column--right  \nFrom Industry | Sponsored Content'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'As your trusted strategic insurance partner, we’re committed to keeping you informed about changes that strengthen the service and support we provide to the aviation community. Today, we’re excited to share an important update about our organization.  \nREAD MORE >  \ncards__column--half cards__column--half  \nFlight Training technique'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'Flight Training offers the insight of experienced pilot-authors to help instructors and students as they progress toward their aviation goals.  \nREAD MORE >  \nSafety'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'Maintain your CFI recent experience through our eFIRC—the most trusted choice in the business! $124—includes help with paperwork processing, no hidden fees!  \nREAD MORE >  \ncards cards__one-two  \nNAMING: 3 articles Featured Left cards__column--left cards__column--right  \nYou Can Fly'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': "Knock off the rust. If you've been out of the flight deck for a while, we'll help you get back in.  \nREAD MORE >  \ncards__column--half cards__column--half  \nAOPA Merch"} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'AOPA gear is more than apparel—it’s a bold symbol of your commitment to general aviation, pilot advocacy, and a thriving community, while directly fueling your Freedom to Fly.  \nSHOP NOW >  \nYou Can Fly'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'Looking for affordable entry to aircraft ownership? Learn about Flying Clubs here.  \nREAD MORE >  \ncards cards__one-two  \nNAMING: 3 articles Featured Left cards__column--left cards__column--right  \nPilot Protection Services'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'I’ve been a long-distance runner from my early teens and a long-distance swimmer for decades. I’ve always thought that meant I was in good health, but now, as the exercise freak baby boomers like me age into our 60s and 70s, there’s recent data that suggests otherwise.  \nREAD MORE >  \ncards__column--half cards__column--half  \nSafety'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'Before heading into the backcountry, explore these resources to learn more about preparing and common challenges.  \nREAD MORE >  \nFinance'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'More Videos >  \nPartners'} 
+----
+{'source': 'aopa.org', 'topic': 'Premier Partners', 'text': '<li><a href="https://www.aopa.org/about/aopa-partners/pilotworkshops"><img src="https://www.aopa.org/-/media/images/aopa-main/HP2019/partners/AOPA-partners-pilot-workshops.png" alt="Pilot Workshops | Focused on improving pilot proficiency by sharing tips and techniques" /></a></li>'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': '<li> <a href="https://aopa.org/travel/hotels"><img src="https://www.aopa.org/-/media/images/aopa-main/HP2019/partners/AOPA-partners-priceline.png" alt="Hotel Discounts | Planning an overnight trip or a long vacation?" /></a></li>  \nAdvertisement  \n/21794231495/section/rectangle /21794231495/section/mobile_rectangle  \n<div class="adhesion-slot-close-button">X</div>  \n1'} 
+----
+{'source': 'aopa.org', 'topic': 'Generic', 'text': 'GMT  \n11:20  \nResources'} 
+----

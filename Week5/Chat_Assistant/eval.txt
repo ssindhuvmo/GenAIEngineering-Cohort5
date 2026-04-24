@@ -1,0 +1,24 @@
+Question :
+ Cloud and Edge are completely different? Answer : 
+ According to the context, Cloud and Edge are not completely the same, but they are also not completely different. They are related and can be used together in hybrid models. Cloud computing centralizes data processing in large data centers, often far from where data is generated, whereas Edge computing refers to the practice of placing computing resources closer to the end-users and devices they interact with. The key difference between the two is that Cloud computing is centralized, while Edge computing is decentralized. However, they can be used together to provide a more comprehensive infrastructure strategy, with Cloud handling global coordination, heavy analytics, and archival storage, and Edge handling local decision-making and immediate data processing. ---
+ [{"Criteria" : "Groundedness", "Evaluation" : "Good"}, 
+{"Criteria" : "Completeness", "Evaluation" : "Good"}, 
+{"Criteria" : "Relevance", "Evaluation" : "Good"}] 
+
+The LLM answer is well-grounded in the context, as it accurately reflects the information provided about the differences and relationships between Cloud and Edge computing. The answer is also complete, as it fully addresses the user's question and provides a clear explanation of the key differences and potential hybrid use cases. Finally, the answer is highly relevant to the user's question, as it directly addresses the query and provides a concise and accurate summary of the relationship between Cloud and Edge computing.
+Question :
+ Is near edge is near to the factory? Answer : 
+ According to the context, "near edge" refers to the edge from the perspective of the service provider, specifically their infrastructure edge. It does not necessarily imply proximity to a factory. The context states that "near edge refers to their infrastructure edge", which suggests that it is near to the service provider's infrastructure, not necessarily a physical location like a factory. ---
+ [{"Criteria" : "Groundedness", "Evaluation" : "Good"}, 
+{"Criteria" : "Completeness", "Evaluation" : "Good"}, 
+{"Criteria" : "Relevance", "Evaluation" : "Good"}] 
+
+The LLM answer is grounded in the context as it accurately quotes and interprets the definition of "near edge" from the given text. The answer is complete as it directly addresses the user's question and provides a clear explanation. The answer is also relevant to the user's question, as it correctly clarifies the meaning of "near edge" in relation to the service provider's infrastructure, rather than a physical location like a factory.
+Question :
+ If there is cloud, can I say it will rain? Answer : 
+ No Sufficient Details ---
+ [{"Criteria" : "Groundedness", "Evaluation" : "Bad"}, 
+{"Criteria" : "Completeness", "Evaluation" : "Bad"}, 
+{"Criteria" : "Relevance", "Evaluation" : "Bad"}] 
+
+The LLM answer "No Sufficient Details" is not grounded in the context, which discusses the concept of fog computing and its relationship to edge devices and the cloud. The answer does not provide any relevant information to address the user's question, which is about the relationship between cloud and rain. The answer is also incomplete as it does not provide any explanation or clarification. Overall, the answer is not relevant to the user's question.

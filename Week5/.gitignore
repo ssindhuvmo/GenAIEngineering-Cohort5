@@ -1,0 +1,16 @@
+/etc
+/Include
+/Lib
+/Scripts
+/share
+*.dll
+venv/
+Lib/
+site-packages/
+/__pycache__/
+*.pyd
+*.dll
+*.exe
+*.pyc
+/vectordbs
+/Vector_DB
